@@ -1,0 +1,2 @@
+gpio.c:33:6:gpio_led_state	24	static
+gpio.c:59:6:MX_GPIO_Init	40	static

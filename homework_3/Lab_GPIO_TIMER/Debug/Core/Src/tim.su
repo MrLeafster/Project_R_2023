@@ -1,0 +1,8 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1724:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+tim.c:27:6:HAL_TIM_PeriodElapsedCallback	16	static
+tim.c:34:10:timer2_get_millisec	16	static
+tim.c:43:6:timer2_wait_millisec	24	static
+tim.c:63:6:MX_TIM2_Init	32	static
+tim.c:103:6:HAL_TIM_Base_MspInit	24	static
+tim.c:123:6:HAL_TIM_Base_MspDeInit	16	static
